@@ -1,0 +1,29 @@
+{
+  "name": "assignment2__",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishadSahibi/assignment2__.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/RishadSahibi/assignment2__/issues"
+  },
+  "homepage": "https://github.com/RishadSahibi/assignment2__#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3",
+    "nodemon": "^3.1.10"
+  }
+}
